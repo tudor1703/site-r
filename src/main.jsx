@@ -4,8 +4,8 @@ import './styles.css'
 
 // Editează aceste valori pentru a personaliza experiența.
 const CONFIG = {
-  target: '2026-09-29T06:00:00+03:00',
-  displayDate: '29 septembrie 2026, ora 06:00',
+  target: '2026-09-29T18:00:00+03:00',
+  displayDate: '29 septembrie 2026, ora 18:00',
   title: 'Fiecare secundă mă aduce mai aproape de tine',
   subtitle: 'Număr clipele până la momentul nostru.',
   letter: 'Până atunci, păstrează un zâmbet pentru mine. Fiecare clipă care trece ne aduce mai aproape de îmbrățișarea noastră.',
